@@ -1,0 +1,5 @@
+# Replace the placeholder domain and deploy this file at your site's root.
+User-agent: *
+Allow: /
+
+Sitemap: https://YOUR-DOMAIN.example/sitemap.xml
